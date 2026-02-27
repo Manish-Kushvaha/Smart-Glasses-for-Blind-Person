@@ -37,10 +37,10 @@
 ## 📷 Project Screenshots
 
 ### 🕶 Smart Glasses
-![Smart Glasses](assets/Smart glasses.jpg)
+![Smart Glasses](https://github.com/Manish-Kushvaha/Smart-Glasses/blob/a9f75dc26c15af494fe113ccbe58e71dc44a7052/assets/Smart%20glasses.png)
 
 ### 🏗 Flowchart
-![Flowchart](assets/Sys Flowchart.png)
+![Flowchart](https://github.com/Manish-Kushvaha/Smart-Glasses/blob/a9f75dc26c15af494fe113ccbe58e71dc44a7052/assets/Sys%20Flowchart.png)
 
 ---
 
