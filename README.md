@@ -39,6 +39,9 @@
 ### 🕶 Smart Glasses
 ![Smart Glasses](https://github.com/Manish-Kushvaha/Smart-Glasses/blob/a9f75dc26c15af494fe113ccbe58e71dc44a7052/assets/Smart%20glasses.png)
 
+### 📱 Mobile Application
+![App](https://github.com/Manish-Kushvaha/Smart-Glasses/blob/1d21068e68904fdd64691b8c0e79876dfb3dba8f/assets/Mob%20App.png)
+
 ### 🏗 Flowchart
 ![Flowchart](https://github.com/Manish-Kushvaha/Smart-Glasses/blob/a9f75dc26c15af494fe113ccbe58e71dc44a7052/assets/Sys%20Flowchart.png)
 
